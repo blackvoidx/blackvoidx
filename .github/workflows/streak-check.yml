@@ -1,8 +1,6 @@
 name: Check THM Streak
 
 on:
-  schedule:
-    - cron: "30 16 * * *"
   workflow_dispatch:
 
 jobs:

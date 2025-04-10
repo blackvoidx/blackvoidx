@@ -41,7 +41,7 @@
   <img src="https://profile-counter.glitch.me/{blackvoidx}/count.svg" alt="visitor count" />
 </div>
 <p align="center"> 
-&nbsp;<a href="mailto:www.mmhmdmm83@gmail.com">
+&nbsp;<a href="mailto:mamadtcpip@proton.me">
      <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/Gmail.gif"  width="200" hight="100"/>
  </a>
 </p>

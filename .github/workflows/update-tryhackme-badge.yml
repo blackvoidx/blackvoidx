@@ -38,8 +38,8 @@ jobs:
       # Step 7: Commit and push changes
       - name: Commit and push changes
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "blackvoidx"
+          git config --global user.email "anonymous@example.com"
           git add assets/tryhackme-badge-high-quality.png
           git commit -m "Update TryHackMe badge"
           git push

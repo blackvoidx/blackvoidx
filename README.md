@@ -30,7 +30,6 @@
 </p>
 
 ---
-<img src="https://github.com/blackvoidx/blackvoidx/blob/main/assets/tryhackme-badge-high-quality.png" alt="visitor count" />
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=blackvoidx&show_icons=true&theme=tokyonight)](https://github.com/MehdiKhoshnevisz/)&ensp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blackvoidx&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
